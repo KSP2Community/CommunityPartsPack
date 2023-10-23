@@ -57,11 +57,11 @@ ExportedObj/
 # Unity temp files and other dross
 /PackageCache/
 UnityTempFile*
-src/cpp/Assets/KSP2UnityTools
-src/cpp/Library
-src/cpp/Logs
-src/cpp/Packages
-src/cpp/Temp
+src/cpp_unity_project/Assets/KSP2UnityTools
+src/cpp_unity_project/Library
+src/cpp_unity_project/Logs
+src/cpp_unity_project/Packages
+src/cpp_unity_project/Temp
 *.bundle
 
 # Unity3D generated meta files
