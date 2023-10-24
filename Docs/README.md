@@ -1,0 +1,2 @@
+# Parts Pack Documentation Folder
+The purpose of this folder is to collect any documentation that's useful or appropriate to your parts pack. In the case of this example parts pack template the documentation is all geared toward what a modder might want or need if they're looking to make a parts pack. In an actual mod it might be used to capture documentation a player might want or need for how to use your parts pack. It's up to you, really.
