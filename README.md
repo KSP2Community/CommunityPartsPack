@@ -16,7 +16,7 @@ You will need to download the latest release and install it in your parts pack u
 * https://github.com/SpaceWarpDev/KSP2UnityTools
 ### LFO
 If you want to make anything that will produce a plume (like an engine or an RCS block) then you'll need this. It's distributed as a *.unitypackage file, so installation is the same as with the KSP2 Unity Tools above.
-* ???
+* [LFO-DevKit-0.2.0](https://github.com/schlosrat/LFO/blob/main/Unity/LFO-DevKit-0.2.0.unitypackage)
 ## Videos
 * [How to create parts for KSP2](https://www.youtube.com/watch?v=9fQg-oMqcH8)
 * [How to make engines for KSP2](https://www.youtube.com/watch?v=G-g0AxrFMGM)
