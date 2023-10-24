@@ -1,0 +1,4 @@
+# Parts Pack Source Folder
+This folder collects at least two things.
+* **Plugin Folder**: The current reference copy of your parts pack plugin folder. This folder should have the parts pack's `swinfo.json`, the `addressables` folder produced by the Unity Editor project, a `localizations` folder with appropriate content if needed (it typically *is* needed), and an `assets` folder that collects things like plume JSON files (for engines), etc.
+* **Unity Editor Project Folder**: This is the Unity Editor project folder used to create the addressables content that goes into the Plugin Folder. *NOTE*: For part modeling files (only some of which are used in the Unity Editor project) see the Parts folder. Organizing part modeling files this way helps to keep the unity project file manageable in size.
