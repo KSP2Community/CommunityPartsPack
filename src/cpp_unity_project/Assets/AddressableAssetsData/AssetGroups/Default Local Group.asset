@@ -22,6 +22,17 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9db34c550a9f56449e2f09b0801b9e5
+    m_Address: cpp_vikas_1v.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aedb5e013f083ea4d925f27eb3995db7
+    m_Address: cpp_vikas_1v.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c74ea033801934f45a6605276fc2f859, type: 2}
   m_SchemaSet:
