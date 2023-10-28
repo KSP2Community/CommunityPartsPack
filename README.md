@@ -21,3 +21,6 @@ If you want to make anything that will produce a plume (like an engine or an RCS
 ### LuxStice's Excellent Video Tutorials (Highly Recommended!)
 * [How to create parts for KSP2](https://www.youtube.com/watch?v=9fQg-oMqcH8)
 * [How to make engines for KSP2](https://www.youtube.com/watch?v=G-g0AxrFMGM)
+## Part Info
+* [Part Families](https://wiki.spacewarp.org/wiki/Family)
+* [Core Part Data "enums"](https://wiki.spacewarp.org/wiki/Category:Core_Part_Data)
