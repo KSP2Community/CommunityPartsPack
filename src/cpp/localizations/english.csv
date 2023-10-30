@@ -1,9 +1,29 @@
 Key,Type,Desc,English
 ,,,
-VAB/PartsPicker/0079-OP,Text,,Optimism:Persperation
-VAB/PartsPicker/0149-OP,Text,,Optimism:Persperationon
+VAB/PartsPicker/0079-OP,Text,,Optimism:Perspiration
+VAB/PartsPicker/0149-OP,Text,,Optimism:Perspiration
 ,,,
-Parts/Title/cpp_vikas_1v,Text,,Cool Name TBD
-Parts/Subtitle/cpp_vikas_1v,Text,,Engine of Creation
-Parts/Manufacturer/cpp_vikas_1v,Text,,KSP2 Modding Society
-Parts/Description/cpp_vikas_1v,Text,,"Like any good modder, this mighty little engine is fueled by a 1:1 ratio of Optimism and Persperation (Sweat). You've got to believe in yourself, but you've got to put in the work to get there - and this booster does just that! As it does run on a high-test blend of OP, it's... well... kinda OP..."
+Parts/Title/cpp_engine_1v_nuke_vikas,Text,,VIKAS Nuclear Variant
+Parts/Subtitle/cpp_engine_1v_nuke_vikas,Text,,Engine of Creation
+Parts/Manufacturer/cpp_engine_1v_nuke_vikas,Text,,KSP2 Modding Society
+Parts/Description/cpp_engine_1v_nuke_vikas,Text,,"Like any good modder, this mighty little engine is fueled by a Hydrogen?... You nbeed it for lift, right? But you've got to put in the work to get there - and this booster does just that! As it does run on a high-test blend of OP, it's... well... kinda OP..."
+,,,
+Parts/Title/cpp_engine_1v_op_vikas,Text,,VIKAS OP Variant
+Parts/Subtitle/cpp_engine_1v_op_vikas,Text,,Engine of Creation
+Parts/Manufacturer/cpp_engine_1v_op_vikas,Text,,KSP2 Modding Society
+Parts/Description/cpp_engine_1v_op_vikas,Text,,"Like any good modder, this mighty little engine is fueled by a 1:1 ratio of Optimism and Perspiration (sweat). You've got to believe in yourself, but you've got to put in the work to get there - and this booster does just that! As it does run on a high-test blend of OP, it's... well... kinda OP..."
+,,,
+Parts/Title/cpp_engine_1v_methalox_vikas,Text,,VIKAS Methalox Variant
+Parts/Subtitle/cpp_engine_1v_methalox_vikas,Text,,Engine of Creation
+Parts/Manufacturer/cpp_engine_1v_methalox_vikas,Text,,KSP2 Modding Society
+Parts/Description/cpp_engine_1v_methalox_vikas,Text,,"Like any good modder, this mighty little engine is fueled by a 1:1 ratio of Oxidizer and Methane (farts). You've got to believe in yourself, but you've got to put in the work to get there - and this booster does just that! As it does run on a high-test blend of OP, it's... well... kinda OP..."
+,,,
+Parts/Title/cpp_fueltank_1v_inline_op_1x8,Text,,Tank Tankety Tank - OP
+Parts/Subtitle/cpp_fueltank_1v_inline_op_1x8,Text,,Tanks for the memories
+Parts/Manufacturer/cpp_fueltank_1v_inline_op_1x8,Text,,KSP2 Modding Society
+Parts/Description/cpp_fueltank_1v_inline_op_1x8,Text,,"Like any good modder, this mighty little tank is filled with Optimism and... Perspiration? Eeewwww! Why would you bring me a tank full of SWEAT!? Are you out of your mind? Get that filthy thing out of here!"
+,,,
+Parts/Title/cpp_fueltank_1v_inline_methalox_1x8,Text,,Tank Tankety Tank - Methalox
+Parts/Subtitle/cpp_fueltank_1v_inline_methalox_1x8,Text,,Tanks for the memories
+Parts/Manufacturer/cpp_fueltank_1v_inline_methalox_1x8,Text,,KSP2 Modding Society
+Parts/Description/cpp_fueltank_1v_inline_methalox_1x8,Text,,"Like any good modder, this mighty little tank is filled with Oxidizer and... Methane? Eeewwww! Why would you bring me a tank full of FARTS!? Are you out of your mind? Get that disgusting thing out of here!"

@@ -15,21 +15,14 @@
     {
       "id": "com.github.x606.spacewarp",
       "version": {
-        "min": "1.4.0",
-        "max": "*"
-      }
-    },
-    {
-      "id": "lfo",
-      "version": {
-        "min": "0.9.0",
+        "min": "1.5.2",
         "max": "*"
       }
     },
     {
       "id": "PatchManager",
       "version": {
-        "min": "0.2.0",
+        "min": "0.3.0",
         "max": "*"
       }
     },

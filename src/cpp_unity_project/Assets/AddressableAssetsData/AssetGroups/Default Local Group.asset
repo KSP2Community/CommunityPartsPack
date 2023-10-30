@@ -15,27 +15,91 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: 3d751286ba980034e992c04885796940
+  m_GUID: cf5f52690879abc47a40bafaaaded68e
   m_SerializeEntries:
-  - m_GUID: 5d70a942a72301f43a44f43c5f64c36b
-    m_Address: cpp_vikas_1v_icon.png
+  - m_GUID: cbed751fad88ee842a12d906ff3123e6
+    m_Address: cpp_fueltank_1v_inline_op_1x8.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b9db34c550a9f56449e2f09b0801b9e5
-    m_Address: cpp_vikas_1v.json
+  - m_GUID: c1976c0f0c017a8418c5e5cd3effb649
+    m_Address: cpp_fueltank_1v_inline_op_1x8_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a31c3d9da204c64dac5edb93e8d587e
+    m_Address: cpp_fueltank_1v_inline_op_1x8.json
     m_ReadOnly: 0
     m_SerializedLabels:
     - parts_data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: aedb5e013f083ea4d925f27eb3995db7
-    m_Address: cpp_vikas_1v.prefab
+  - m_GUID: 6bd67effe4e36a548b227d813bb17057
+    m_Address: cpp_fueltank_1v_inline_methalox_1x8.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b06545d2cdf81ac48bf2d34264977488
+    m_Address: cpp_fueltank_1v_inline_methalox_1x8_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 027972aa4e3c5d842ba0a9ad7aa50084
+    m_Address: cpp_fueltank_1v_inline_methalox_1x8.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02fb486db8c075941959706661af23b1
+    m_Address: cpp_engine_1v_op_vikas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78f7a9a4232920b4db44c4f7646e77c1
+    m_Address: cpp_engine_1v_methalox_vikas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3295754a4fddae740a77d4686efcd8cd
+    m_Address: cpp_engine_1v_methalox_vikas.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7c526610b47f0e46ae062d6fdf4a7bf
+    m_Address: cpp_engine_1v_methalox_vikas_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74dfc39a7763dba408c613e392885e69
+    m_Address: cpp_engine_1v_op_vikas_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18ba0b69833adc44eb11d91009e4fe5e
+    m_Address: cpp_engine_1v_op_vikas.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a064621487128d343abeb5571f44a49e
+    m_Address: cpp_engine_1v_nuke_vikas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2597854a915920a4f96e0441a1ca5294
+    m_Address: cpp_engine_1v_nuke_vikas_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c6c0495b36b4394c805fdbdbc1de6b4
+    m_Address: cpp_engine_1v_nuke_vikas.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: c74ea033801934f45a6605276fc2f859, type: 2}
+  m_Settings: {fileID: 11400000, guid: ba6f2d345c4bcce499b9a1485f7c68ae, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 49a48846488dc804b87186ce226631c7, type: 2}
-    - {fileID: 11400000, guid: 47c77b9f41966164688c75becab83435, type: 2}
+    - {fileID: 11400000, guid: bd6000420ae224e49b527cf4af029584, type: 2}
+    - {fileID: 11400000, guid: b54d994ff3568d34fa909431bb0ded62, type: 2}
