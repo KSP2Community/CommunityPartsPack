@@ -1,0 +1,49 @@
+@use 'CommunityResources:flowmodes';
+@use 'CommunityResources:transfermodes';
+
+@new("Optimism")
+:resources {
+	displayNameKey: "Resource/DisplayName/Optimism";
+	abbreviationKey: "Resource/Abbreviation/Op";
+	isTweakable: true;
+	isVisible: true;
+	massPerUnit: 1;
+	volumePerUnit: 4;
+	specificHeatCapacityPerUnit: 1;
+	flowMode: $FM_STAGE_PRIORITY_FLOW;
+	transferMode: $TM_PUMP;
+	costPerUnit: 0.8;
+	NonStageable: false;
+	resourceIconAssetAddress: "";
+	vfxFuelType: "Methalox";
+}
+
+@new("Persperation")
+:resources {
+	displayNameKey: "Resource/DisplayName/Persperation";
+	abbreviationKey: "Resource/Abbreviation/Pr";
+	isTweakable: true;
+	isVisible: true;
+	massPerUnit: 1;
+	volumePerUnit: 4;
+	specificHeatCapacityPerUnit: 1;
+	flowMode: $FM_STAGE_PRIORITY_FLOW;
+	transferMode: $TM_PUMP;
+	costPerUnit: 0.8;
+	NonStageable: false;
+	resourceIconAssetAddress: "";
+	vfxFuelType: "Methalox";
+}
+
+// 1 unit of optimism to 1 unit of perspiration
+@new("OptiPersp", true)
+:resources {
+    displayNameKey: "Resource/DisplayName/OptiPersp";
+    abbreviationKey: "Resource/Abbreviation/OP";
+    +Optimism {
+        unitsPerRecipeUnit: 1;
+    }
+    +Perspiration {
+        unitsPerRecipeUnit: 1;
+    }
+}
