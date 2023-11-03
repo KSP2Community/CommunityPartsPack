@@ -18,9 +18,9 @@
 	vfxFuelType: "Methalox";
 }
 
-@new("Persperation")
+@new("Perspiration")
 :resources {
-	displayNameKey: "Resource/DisplayName/Persperation";
+	displayNameKey: "Resource/DisplayName/Perspiration";
 	abbreviationKey: "Resource/Abbreviation/Pr";
 	isTweakable: true;
 	isVisible: true;
